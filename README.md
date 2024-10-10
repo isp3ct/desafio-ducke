@@ -50,4 +50,4 @@ O scraper abrirá um navegador em modo headless e coletará as informações dos
 ## Observações
 
 - O código está autoexplicativo, mas se houver qualquer dúvida, sinta-se à vontade para entrar em contato.
-- Para visualizar o navegador durante a execução, altere o parâmetro `headless` para `false` na linha 4 do código main.ts, dentro da pasta src.
+- Para visualizar o navegador durante a execução, altere o parâmetro `headless` para `false` na linha 5 do código main.ts, dentro da pasta src.
