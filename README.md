@@ -53,5 +53,6 @@ O scraper abrirá um navegador em modo headless e coletará as informações dos
 
 - O código está autoexplicativo, mas se houver qualquer dúvida, sinta-se à vontade para entrar em contato.
 - Para visualizar o navegador durante a execução, altere o parâmetro `headless` para `false` na configuração do crawler.
+- Existem outras branches disponíveis neste repositório que podem ser exploradas para obter diferentes implementações e abordagens do projeto.
 
 Este projeto foi desenvolvido para mostrar uma abordagem diferente ao problema proposto, permitindo que os recrutadores avaliem qual implementação se adequa melhor às suas necessidades e em qual área eu poderia melhorar.
