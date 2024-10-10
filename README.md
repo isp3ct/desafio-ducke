@@ -57,4 +57,6 @@ O scraper abrirá um navegador em modo headless e coletará as informações dos
 
 - O código está autoexplicativo, mas se houver qualquer dúvida, sinta-se à vontade para entrar em contato.
 - Para visualizar o navegador durante a execução, altere o parâmetro `headless` para `false` na configuração do crawler no código.
+- Existem outras branches disponíveis neste repositório que podem ser exploradas para obter diferentes implementações e abordagens do projeto.
+
 - Este projeto foi desenvolvido em Crawlee para demonstrar uma linguagem alternativa, permitindo que os recrutadores escolham qual a melhor e em qual devo melhorar.
