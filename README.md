@@ -16,8 +16,6 @@ Este projeto é uma versão aprimorada de um web scraper desenvolvido para captu
 
 - **Melhoria na Coleta de Ingredientes**: A lógica de coleta foi aprimorada para tentar localizar ingredientes que contêm palavras-chave relevantes, como "Água", "AQUA", "WATER" e "Glucomannan". Se não forem encontrados, uma busca alternativa é realizada para capturar ingredientes que tenham descrições associadas.
 
-- **Tratamento de Erros**: Mensagens de erro são exibidas caso ocorra algum problema na coleta de ingredientes, garantindo que o scraper não falhe completamente em casos de erro.
-
 - **Validação de Coleta**: O scraper agora limita a coleta a um máximo de 6 produtos, permitindo que você escolha a quantidade desejada. O sétimo produto necessitaria de validação adicional, que não foi implementada nesta versão.
 
 ## Tecnologias Utilizadas
